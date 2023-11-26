@@ -1,3 +1,3 @@
 ### R and Matlab code I wrote to segregate patients of Gregory Sahagian, MD (at the Neurology Center of Southern California) with Alzheimer's and Parkinson's disease from healthy controls based on transcriptomics data from finger-prick blood spotted on filter paper (also identified transcriptomics markers for differences between Alzheimer's and Parkinson's disease) and for clustering of transcriptomics data and dose response analysis, to quantify drug efficacy and the side effects, based on targeted sequencing of estrogen receptor-positive breast cancer cells
 
-#### For further information, please refer to: http://dx.doi.org/10.13140/RG.2.2.24918.01605
+### For further information, please refer to: http://dx.doi.org/10.13140/RG.2.2.24918.01605 (7 PDF files)
